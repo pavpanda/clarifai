@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:background="#f16a70"
+        android:textColor="#fff"
+        android:fontFamily="sans-serif-light"
+        android:layout_margin="0dp"
+        android:id="@+id/buttono1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="loading..."/>
+
+    <Button
+        android:background="#b1d877"
+        android:textColor="#fff"
+        android:fontFamily="sans-serif-light"
+        android:layout_margin="0dp"
+        android:id="@+id/buttono2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="loading..."/>
+
+    <Button
+        android:background="#8cdcda"
+        android:textColor="#fff"
+        android:fontFamily="sans-serif-light"
+        android:layout_margin="0dp"
+        android:id="@+id/buttono3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="loading..."/>
+
+    <Button
+        android:background="#4d4d4a"
+        android:textColor="#fff"
+        android:fontFamily="sans-serif-light"
+        android:layout_margin="0dp"
+        android:id="@+id/buttono4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="loading..."/>
+
+</LinearLayout>
